@@ -14,6 +14,3 @@ opensimplex
 
 ## Config
 You can configure the generated world by setting size, seed, and world type at the end of main.py file.
-
-## Example
-![Example world](example.png)
